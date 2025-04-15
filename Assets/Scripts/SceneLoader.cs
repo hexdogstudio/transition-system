@@ -28,9 +28,8 @@ public class SceneLoader : MonoBehaviour
         while (aop.progress < 0.9f || !layer.IsDone)
             yield return null;
 
+        aop.allowSceneActivation = true;
         // Transition: FADE-OUT
         layer.Hide(fadeOutTime, fadeOutDelay);
-
-        aop.allowSceneActivation = true;
     }
 }
