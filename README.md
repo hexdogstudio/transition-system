@@ -10,4 +10,4 @@ This repository contains all the Unity project files and source code used in the
 
 ## 🎬 Full Video on Youtube!
 
-[![Watch the video](https://i.ytimg.com/vi/SCWZjQs28_g/maxresdefault.jpg)](https://www.youtube.com/watch?v=SCWZjQs28_g)
+[![Watch the video](https://i.ytimg.com/vi/Y3bXMO4FwdI/maxresdefault.jpg)](https://www.youtube.com/watch?v=SCWZjQs28_g)
